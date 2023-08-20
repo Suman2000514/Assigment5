@@ -1,0 +1,60 @@
+
+/* body{
+    background-color: antiquewhite;
+} */
+body{
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?w=1060&t=st=1692506860~exp=1692507460~hmac=d56a13a533ef052e3bde7f99d06bbbdbc1bdd162493568f599482739b1a98778);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    
+}
+
+#about{
+ 
+    margin-left: 30%;
+   background-color: whitesmoke;
+   height: auto;
+   width: 100vh;
+   position: relative;
+   top: 200px;
+   box-shadow: 0 0 10px black;
+   
+  
+   
+   
+}
+#img{
+    margin: 70px 15px;
+    height: 300px;
+    width:300px;
+    float: right;
+    box-shadow: 0 0 10px black;
+   
+    
+}
+button{
+    font-size: 20px;
+    background-color: brown;
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+#about i{
+    font-size: 30px;
+    padding:10px;
+    margin: 10px;
+   
+}
+#about h1 {
+    font-size: 50px;
+    margin: 10px;
+}
+
+#about p{
+   
+    text-align: justify;
+    font-size: 20px;
+    margin: 10px;
+}
